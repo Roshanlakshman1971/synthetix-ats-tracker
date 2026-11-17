@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+output/
+.DS_Store
+stitch_ats_resume_optimizer.zip
